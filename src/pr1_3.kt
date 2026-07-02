@@ -32,6 +32,7 @@ fun main(){
     print("Student Age :")
     var a8 : Int =readln().toInt()
 
+    println("****Student Information ****")
     println("Student Enroll number : $a1")
     println("Student name : $a2")
     println("Student Branch : $a3")
