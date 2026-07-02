@@ -1,5 +1,5 @@
 fun main(){
-    var s1 : String ? = "23"
+    // var s1 : String ? = "23"
 
     //val a1 : Int  = s1 !!.toInt()
 
